@@ -6,7 +6,12 @@ to easily use these algorithms in a pipeline.
 
 ## List of feature selection methods
 
-TO-DO
+* [mRMR](http://www.csc.kth.se/~auffarth/publications/redrel.pdf) TODO
+* [CFS](http://home.eng.iastate.edu/~julied/classes/ee547/Handouts/Flairs.pdf ) TODO
+* [reliefF](https://link.springer.com/article/10.1023%2FA%3A1025667309714) TODO 
+* [fisher score](https://arxiv.org/pdf/1202.3725.pdf) TODO
+* possibly more
+
 
 ## Important Links
 HTML Documentation - PLACEHOLDER
@@ -25,4 +30,4 @@ sudo python setup.py install
 
 ## Contribution guide
 
-TO-DO
+TODO 
